@@ -7,3 +7,9 @@ header {
   height: 38em;
   background-size: 100%;
 }
+
+.top-bg-image h1 {
+  font-weight: 600;
+  font-size: 78px;
+  font-family: cursive;
+}
