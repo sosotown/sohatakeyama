@@ -1,3 +1,5 @@
 .top-bg-image {
-  background-image: '/images/polarbaer_dash.gif';
+  background-image: url('../../public/images/polarbaer_dash.gif');
+  height: 621px;
+  background-size: 100%;
 }
